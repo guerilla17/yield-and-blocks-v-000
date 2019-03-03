@@ -1,4 +1,5 @@
 
+
 # call your method here!
 
 def hello_t(array)
@@ -24,4 +25,3 @@ end
     puts "Hi, #{name}"
   end
 end
-
